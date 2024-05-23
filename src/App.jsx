@@ -11,7 +11,7 @@ const App = () => {
   }
 
   return (
-    <div className="App">
+    <div className="app-container">
     <h1>Creating a Hero</h1>  
     <div>
 
